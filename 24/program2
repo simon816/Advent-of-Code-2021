@@ -1,0 +1,180 @@
+w = INPUT
+y = w
+y = (y + 6)
+z = y
+w = INPUT
+x = z
+x = (x % 26)
+x = (x + 11)
+x = (x == w)
+x = (x == 0)
+y = (25 * x)
+y = (y + 1)
+z = (z * y)
+y = w
+y = (y + 11)
+y = (y * x)
+z = (z + y)
+w = INPUT
+x = z
+x = (x % 26)
+x = (x + 12)
+x = (x == w)
+x = (x == 0)
+y = (25 * x)
+y = (y + 1)
+z = (z * y)
+y = w
+y = (y + 5)
+y = (y * x)
+z = (z + y)
+w = INPUT
+x = z
+x = (x % 26)
+x = (x + 10)
+x = (x == w)
+x = (x == 0)
+y = (25 * x)
+y = (y + 1)
+z = (z * y)
+y = w
+y = (y + 6)
+y = (y * x)
+z = (z + y)
+w = INPUT
+x = z
+x = (x % 26)
+x = (x + 14)
+x = (x == w)
+x = (x == 0)
+y = (25 * x)
+y = (y + 1)
+z = (z * y)
+y = w
+y = (y + 8)
+y = (y * x)
+z = (z + y)
+w = INPUT
+x = z
+x = (x % 26)
+z = (z / 26)
+x = (x + -1)
+x = (x == w)
+x = (x == 0)
+y = (25 * x)
+y = (y + 1)
+z = (z * y)
+y = w
+y = (y + 14)
+y = (y * x)
+z = (z + y)
+w = INPUT
+x = z
+x = (x % 26)
+x = (x + 14)
+x = (x == w)
+x = (x == 0)
+y = (25 * x)
+y = (y + 1)
+z = (z * y)
+y = w
+y = (y + 9)
+y = (y * x)
+z = (z + y)
+w = INPUT
+x = z
+x = (x % 26)
+z = (z / 26)
+x = (x + -16)
+x = (x == w)
+x = (x == 0)
+y = (25 * x)
+y = (y + 1)
+z = (z * y)
+y = w
+y = (y + 4)
+y = (y * x)
+z = (z + y)
+w = INPUT
+x = z
+x = (x % 26)
+z = (z / 26)
+x = (x + -8)
+x = (x == w)
+x = (x == 0)
+y = (25 * x)
+y = (y + 1)
+z = (z * y)
+y = w
+y = (y + 7)
+y = (y * x)
+z = (z + y)
+w = INPUT
+x = z
+x = (x % 26)
+x = (x + 12)
+x = (x == w)
+x = (x == 0)
+y = (25 * x)
+y = (y + 1)
+z = (z * y)
+y = w
+y = (y + 13)
+y = (y * x)
+z = (z + y)
+w = INPUT
+x = z
+x = (x % 26)
+z = (z / 26)
+x = (x + -16)
+x = (x == w)
+x = (x == 0)
+y = (25 * x)
+y = (y + 1)
+z = (z * y)
+y = w
+y = (y + 11)
+y = (y * x)
+z = (z + y)
+w = INPUT
+x = z
+x = (x % 26)
+z = (z / 26)
+x = (x + -13)
+x = (x == w)
+x = (x == 0)
+y = (25 * x)
+y = (y + 1)
+z = (z * y)
+y = w
+y = (y + 11)
+y = (y * x)
+z = (z + y)
+w = INPUT
+x = z
+x = (x % 26)
+z = (z / 26)
+x = (x + -6)
+x = (x == w)
+x = (x == 0)
+y = (25 * x)
+y = (y + 1)
+z = (z * y)
+y = w
+y = (y + 6)
+y = (y * x)
+z = (z + y)
+w = INPUT
+x = z
+x = (x % 26)
+z = (z / 26)
+x = (x + -6)
+x = (x == w)
+x = (x == 0)
+y = (25 * x)
+y = (y + 1)
+z = (z * y)
+y = w
+y = (y + 1)
+y = (y * x)
+z = (z + y)
